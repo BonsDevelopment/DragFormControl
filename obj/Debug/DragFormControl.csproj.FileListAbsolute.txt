@@ -1,0 +1,5 @@
+c:\users\ironb\documents\visual studio 2015\Projects\DragFormControl\DragFormControl\bin\Debug\DragFormControl.dll
+c:\users\ironb\documents\visual studio 2015\Projects\DragFormControl\DragFormControl\bin\Debug\DragFormControl.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\DragFormControl\DragFormControl\obj\Debug\DragFormControl.csprojResolveAssemblyReference.cache
+c:\users\ironb\documents\visual studio 2015\Projects\DragFormControl\DragFormControl\obj\Debug\DragFormControl.dll
+c:\users\ironb\documents\visual studio 2015\Projects\DragFormControl\DragFormControl\obj\Debug\DragFormControl.pdb
